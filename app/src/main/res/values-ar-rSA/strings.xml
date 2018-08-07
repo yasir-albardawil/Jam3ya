@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الجمعية</string>
+    <string name="welcoming">مرحبا</string>
+    <string name="start">أبدأ</string>
+    <string name="add">أضافة</string>
+    <string name="prompt_email">الإيميل</string>
+    <string name="prompt_password">كلمة المرور</string>
+</resources>
